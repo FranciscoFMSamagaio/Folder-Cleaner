@@ -27,10 +27,10 @@ pip install -r requirements.txt
     cd folder_cleaner
     ```
 
-2. **Configure Rules (Optional):**
+2. **Set the Source Directory::**
 
    - Open the `folder_cleaner.py` file.
-   - Modify the rules as needed based on your folder organization preferences.
+   - Set the SOURCE_DIR variable to the path of your source directory.
 
 3. **Run the script:**
 
@@ -55,10 +55,10 @@ pip install -r requirements.txt
     pip install -r requirements.txt
     ```
 
-3. **Configure Rules (Optional):**
+3. **Set the Source Directory::**
 
-   - Open the `auto_folder_cleaner.py` file.
-   - Modify the rules as needed based on your folder organization preferences.
+   - Open the `aut_folder_cleaner.py` file.
+   - Set the SOURCE_DIR variable to the path of your source directory.
 
 4. **Run the script:**
 
