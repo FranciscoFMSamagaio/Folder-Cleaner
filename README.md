@@ -27,18 +27,12 @@ pip install -r requirements.txt
     cd folder_cleaner
     ```
 
-2. **Install dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Configure Rules (Optional):**
+2. **Configure Rules (Optional):**
 
    - Open the `folder_cleaner.py` file.
    - Modify the rules as needed based on your folder organization preferences.
 
-4. **Run the script:**
+3. **Run the script:**
 
     ```bash
     python folder_cleaner.py
@@ -85,10 +79,11 @@ project_folder/
 |   |-- image.jpg
 |   |-- archive.zip
 |-- organized/
-## Example
+```
 
 After running both scripts, the folder structure might look like:
 
+```plaintext
 project_folder/
 |-- unorganized/
 |-- organized/
@@ -98,7 +93,7 @@ project_folder/
 |-- image.jpg
 |-- Archives/
 |-- archive.zip
-
+```
 This is just an example, and you can customize the rules to match your specific needs for both scripts.
 
 ## Contributing
