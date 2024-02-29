@@ -1,4 +1,4 @@
-Folder Cleaner
+##Folder Cleaner
 Overview
 Folder Cleaner is a Python project consisting of two scripts: folder_cleaner and auto_folder_cleaner. These scripts are designed to organize a specific folder by cleaning and sorting its contents automatically.
 
