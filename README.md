@@ -48,19 +48,12 @@ pip install -r requirements.txt
     git clone https://github.com/your-username/folder_cleaner.git
     cd folder_cleaner
     ```
-
-2. **Install dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Set the Source Directory::**
+2. **Set the Source Directory::**
 
    - Open the `aut_folder_cleaner.py` file.
    - Set the SOURCE_DIR variable to the path of your source directory.
 
-4. **Run the script:**
+3. **Run the script:**
 
     ```bash
     python auto_folder_cleaner.py
